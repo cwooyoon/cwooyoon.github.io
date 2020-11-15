@@ -12,7 +12,7 @@ author: Changwoo Yoon
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Art: "AI-Arts"
+  AI-Art: "art"
   Career: "career"
   Publication: "publication"
   Blog: "blog"
@@ -47,10 +47,11 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: bartyarts
+  instagram: barty_corquis3
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: 01068881663
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
