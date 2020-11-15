@@ -9,7 +9,7 @@ subtitle: AI Learning Section, ETRI
 
 ## About me
 
-**Changwoo Yoon** is a **_senior researcher_** and **_AI special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). 
+**Changwoo Yoon** is a **_principal researcher_** and **_AI special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). 
 
 He received Ph.D. degree in Computer & Information Science & Engineering from University of Florida, US, in 2005. Currently he is senior researcher at ETRI and  professor at UST. 
 
