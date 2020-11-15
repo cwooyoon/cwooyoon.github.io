@@ -4,120 +4,85 @@ title: Publication
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Son:Seokho).
+I can also be found from [Google Scholar](https://scholar.google.com/citations?user=cwooyoon) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Yoon:Changwoo).
 
 
 # Research Papers
 
-### Journal Papers
+### ITU-T International Standardization
 
-#### International
+* ITU-T SG13 Y.sof(service scenarios over FMC) 에디터, Y.2720.sup14 승인, 2011, 관련기고서 10여편 채택
+* ITU-T SG13 Y.nscreen-sc(N-screen service scenario) 에디터, Y.2000.sup24 승인, 관련 기고서 15편 채택, 2013.
+* ITU-T SG13 Y.disfs(Device Independent Screen-free service models) 에디터, Y.2000.sup51 승인, 관련기고서 10여편 채택, 2018
+* 표준승인문서: ITU-T SG13 Y.sof(service scenarios over FMC) Y.2720.sup14, 표준특허(모바일디지털광고) 연계, 2011 외 2건
 
-- **Seokho Son**, Dong-Jae Kang, Seyoung Phillip Huh. Won-Young Kim, Wan Choi, _“Adaptive trade-off strategy for bargaining-based multi-objective SLA establishment under varying cloud workload,”_ Journal of Supercomputing, vol. 72, pp. 1597–1622, March 2016. (Citation: 15, SCIE, IF: 2.157)
+### Patents
 
-- **Seokho Son**, Gihun Jung, Sung Chan Jun, _“An SLA-based cloud computing that facilitates resource allocation in the distributed data centers of a cloud provider,”_ Journal of Supercomputing, vol. 64, no. 2, pp. 606–637, May 2013. (Citation: 77, SCIE, IF: 2.157)
+* 표준특허: 모바일디지털광고시스템 
+* IoT관련특허: SDP기반 디바이스 리소스 연동서비스 제공방법
+* 클라우드 특허: 클라우드기반 분리형 3D UI 메뉴 제공 방법 등 2건 1저자, 공동 15건
+* 오버레이 네트워크 관련 공동특허 5건
+* SDP 관련 특허 2건
+* 웹인포샵 서비스 관련 특허 1건: 애플 앱스토어 유사 특허로 미국 유사서비스 제공 기업에 특허료 청구 프로세스 진행중
 
-- **Seokho Son** and Kwang Mong Sim, _“Adaptive and similarity-based tradeoff algorithms in a Price-Timeslot-QoS negotiation system to establish cloud SLAs,”_ Information Systems Frontiers, 17(3), 565-589, May 2013 (Citation: 22, SCIE, IF: 3.152)
+### University Career
 
-- **Seokho Son** and Kwang Mong Sim, _“A price and time slot negotiation mechanism for cloud service reservations,”_ IEEE Transactions on Systems, Man and Cybernetics, Part B: Cybernetics, vol. 42, no. 3, pp. 713–728, June 2012. (Citation: 129, SCIE, **IF: 11.47**, One of Top IEEE transactions, the journal is renamed to IEEE Transactions on Cybernetics)
+* UST겸임교수, 네크워크공학, 2009년~현재, 딥러닝기반 생체신호분석, 지식기반 오버레이 전달망 및 서비스플랫폼 연구, 박사 1명 배출, 1명 수학중
+* Postdoctor, University of Florida Biology department, 2006, DNA 염기서열 비교 분석을 통한 질병유발 인자 추출 연구
+* Research Assistant, University of Florida Pathology department, 2001~2005, 병리학 SNOMED 분석 Ontology 구축, 지식기반 정보추출 엔진 개발
+* Ph.D., University of Florida, Computer Information Science & Engineering department, 2005, 확률론적 지식 정보추출 방법 연구
 
-- Seokhee Lee, **Seokho Son**, and JongWon Kim, _“Cost-effective haptic-based networked virtual environments with high-resolution tiled display,”_ Multimedia Tools and Applications, vol. 54, no. 2. pp. 365–384, 2011. (SCIE, IF: 1.876)
+### 학회지, 동향분석지 논문
 
-#### Domestic
+* 인공지능 플랫폼의 개념과 도입 전략, 주간기술동향, 2018
+* 뇌과학과 인공지능의 융합적 측면에서의 미래 기술 발전 방향 예측, 전자통신 동향분석 2017
+* 뇌과학 기반 인지컴퓨팅 기술 동향 및 발전 전망, 주간기술동향, 2016
+* 인공지능 관련 기술과 정책동향 및 시사점, 전자통신 동향분석 2016
+* N-스크린 서비스 및 플랫폼 표준화 동향, Telecommunications Review, 2013
+* ITU-T N-스크린 서비스 표준화 동향, 통신학회지, 2013
+* 기가코리아 플랫폼 기술 및 발전방향, TTA저널, 2013
+* 스마트미디어 시대의 도래 및 발전방향, 방송공학회지, 2013
+* Digital Signage 기반 광고를 위한 클라우드 기술 및 표준화 동향, 정보과학회지, 2012.4
+* N-스크린 서비스 분류와 표준화 기술, 정보과학회지, 2011
+* 디지털 사이니지 기술 및 표준화 동향, 주간기술동향, 2011
+* IPTV 서비스 및 기술 진화 방향, 전자통신동향분석, 2010.4.
+* 클라우드 마켓 컴퓨팅을 위한 효율적인 리소스 추천시스템, 인터넷정보학회논문지, 2010
+* Social TV를 수용하기 위한 개방형 IPTV 플랫폼에 관한 연구, 한국디지털콘텐츠학회 논문지, 2010
+* IPTV 서비스 및 기술 진화 방안, 한국통신학회지, 2008, 최우수논문
 
-- **Seokho Son** and Dong-Jae Kang, _“Development of a Testing Tool to Validate Integrity of a Constructed Cloud System based on OpenStack,”_ KIISE Transactions on Computing Practices, Vol. 20, No. 12, pp. 658-663, Dec. 2014.
+### 저널, 컨퍼런스
 
-- **Seokho Son**, Gihun Jung, and Sung Chan Jun, _“A Variable Scheme to Reduce SLA Violations in a Cloud Operating Distributed Data Centers,”_ Journal of Korea Information Science Society: Computing Practices and Letters, vol.18, no.11, pp. 818-822, Nov. 2012.
-
-- JongWon Kim, Seokhee Lee, and **Seokho Son**, _“QoE Framework for Haptic-based 3D Network Virtual Environment,”_ Journal of Korea Information Science Society, vol. 14, no. 7, pp. 646–656, Dec. 2008.
-
-
-### Conference Papers
-
-#### International
-
-- **Seokho Son**, Dong-Jae Kang, and Jin-Mee Kim, _“Design considerations to realize automated SLA negotiations in a multi-Cloud brokerage system,”_ In Proc. of 2014 International Conference on. IEEE Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom), pp. 466-468, Miami, USA, Nov 2014.
-
-- **Seokho Son** and Sung Chan Jun, _"Negotiation-based Flexible SLA Establishment with SLA-driven Resource Allocation in Cloud Computing,"_ In Proc. of the IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2013 Doctoral Symposium), pp. 168-171, Delft, The Nederlands, May 2013. (Microsoft Academic Search-Field Rank: 14/203)
-
-- **Seokho Son**, Gihun Jung, and Sung Chan Jun, _“A SLA-based Cloud Computing Framework: Workload and Location Aware Resource Allocation to Distributed Data Centers in a Cloud,”_ In Proc. The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2012), Las Vegas, USA, July 2012. (Microsoft Academic Search-Field Rank: 38/203)
-
-- **Seokho Son** and Kwang Mong Sim, _“A Negotiation Mechanism that Facilitates the Price-Timeslot-QoS Negotiation for Establishing SLAs of Cloud Service Reservation,”_ In Proc. Networked Digital Technologies, Communications in Computer and Information Science (CCIS), International Conference on Networked Digital Technologies (NDT 2011), vol. 136, no. 8, pp. 432–446, Macau, 2011.
-
-- **Seokho Son** and Kwang Mong Sim, _“An Adaptive Tradeoff Algorithm for Multi-issue SLA Negotiation,”_ In Proc. Grid and Distributed Computing, Control and Automation, Communications in Computer and Information Science (CCIS), International Conference on Grid and Distributed Computing (GDC 2010), vol. 121, pp. 32¬41, Jeju, Republic of Korea, 2011.
-
-- **Seokho Son**, and Kwang Mong Sim, _“A Multi-issue Negotiation Mechanism for Cloud Service Reservation,”_ In Proc. International Conference on Cloud Computing & Virtualization (CCV 2010), Singapore, May 2010.
-
-- **Seokho Son** and Kwang Mong Sim, _“Relaxed Time Slot Negotiation for Grid Resource Allocation,”_ In Proc. Grid and Distributed Computing, Control and Automation, Communications in Computer and Information Science (CCIS), International Conference on Grid and Distributed Computing (GDC 2009), vol. 63, pp. 25–32, Jeju, Republic of Korea, 2009.
-
-- **Seokho Son**, Vinay Ramachandra, and JongWon Kim, _“Networked Haptic Virtual Environments Supporting Ultra High Resolution Display,”_ In Proc. the 11th IEEE International Conference on High Performance Computing and Communications (HPCC09), pp. 579–584, Seoul, Republic of Korea, June 2009.
-
-- **Seokho Son**, Seokhee Lee, and JongWon Kim, _“Networked Haptic Virtual Environments Supporting Ultra High Resolution Display,”_ In Proc. SPIE, Multimedia Systems and Applications X, SPIE International Symposium on Information Technologies and Communications (ITCom 2007), vol. 6777, Boston, USA, Sept. 2007.
-
-#### Domestic
-
-- **Seokho Son**, _“Workload-aware adaptive Cloud SLA establishment,”_ In Proc. Korea Computer Congress 2015 (Korea Information Science Society), pp. 1702– 1704, June 2015.
-
-- **Seokho Son** and Dong-Jae Gang, _“An open source-based testing tool for Cloud OS validation,”_ In Proc. Korea Computer Congress 2014 (Korea Information Science Society), pp. 36–38, June 2014. (Best paper presentation award)
-
-- **Seokho Son**, Gihun Jung, and Sung Chan Jun, _“A SLA negotiation mechanism to facilitate load balancing in a cloud infrastructure consisting of geographically distributed data centers,”_ In Proc. Korea Computer Congress 2012 (Korea Information Science Society), vol.39, no.1A, pp. 239–241, June 2012. (Best paper presentation award)
-
-- **Seokho Son** and JongWon Kim, _“Haptic Collaboration System over High Resolution Display and Performance Modeling of a Visualization System,”_ In Proc. Human Computer Interaction in Korea (HCI 2009), Pyeongchang, Republic of Korea, 2009.
-
-- **Seokho Son**, JunHee Hong, ChangHyeok Bae, Sung Chan Jun, and JongWon Kim, _“Interactive Scientific Visualization of High-resolution Brain Imagery over Networked Tiled Display,”_ In Proc. Korea e-Science All Hands Meeting (AHM 2008), Daejeon, Republic of Korea, 2008.
-
-- **Seokho Son**, Seokhee Lee, and JongWon Kim, _“Haptic Collaboration System over High Resolution Tiled-display with QoE,”_ In Proc. Human Computer Interaction in Korea (HCI 2008), Pyeongchang, Republic of Korea, 2008.
-
-- **Seokho Son**, Seokhee Lee, and JongWon Kim, _“Network-adaptive Control of Object Stiffness for Networked Haptic Collaboration System,”_ In Proc. Human Computer Interaction in Korea (HCI 2007), Pyeongchang, Republic of Korea, 2007.
-
-
-### Book Chapter
-
-- **Seokho Son**, JunHee Hong, ChangHyeok Bae, Sung Chan Jun, and JongWon Kim, _“Interactive Scientific Visualization of High-resolution Brain Imagery Over Networked Tiled Display,”_ Future Application and Middleware Technology on e-Science, pp. 125–136, 2010.
-
-
-# Patents
-
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"APPARATUS AND METHOD FOR MULTI-CLOUD SERVICE PLATFORM,"_ Korea Patent:	20-0046740 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"CLOUD COMPUTING-BASED SIMULATION APPARATUS AND METHOD FOR OPERATING THE SAME,"_ US Patent:	16-789234 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"APPARATUS AND METHOD FOR CLOUD COMPUTION BASED SIMULATION,"_ Korea Patent:	19-0016906 (applied).
-
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS FOR PROVIDING CLOUD SERVICE BASED ON CLOUD SERVICE BROKERAGE AND METHOD THEREOF,"_ US Patent:	16-168683 (applied).
-
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"METHOD AND　APPRATUS FOR PROVIDING A CLOUD SERVICE BASED ON CLOUD SERVICE BROKERAGE,"_ Korea Patent:	17-0141487 (applied).
-
-- Hyun-Hwa Choi, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, _"APPARATUS AND METHOD FOR FILE SHARING BETWEEN APPLICATIONS,"_ Korea Patent:	17-0028954 (applied).
-
-- Hyun-Hwa Choi, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, _"APPARATUS AND METHOD FOR FILE SHARING BETWEEN APPLICATIONS,"_ US Patent:	16-216401 (applied).
-
-- Hyun-Hwa Choi, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, _"METHOD FOR EXPENDING PERFORMANCE OF STREAMING SERVICE AND APPARATUS THEREFOR,"_ Korea Patent No.	10-2013579.
-
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPRATUS FOR PROVIDING A CLOUD BROKERAGE SERVICE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ US Patent:	16-007821 (applied).
-
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPRATUS FOR PROVIDING A CLOUD BROKERAGE SERVICE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ Korea Patent:	17-0075908 (applied).
-
-- Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS FOR PROVIDING CLOUD SERVICE USING CLOUD SERVICE BROKERAGE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ US Patent:	16-007958 (applied).
-
-- Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPRATUS FOR PROVIDING A CLOUD SERVICE USING CLOUD SERVICE BROKERAGE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ Korea Patent: 17-0075923 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS AND METHOD FOR VALIDATING SERVICE CONTROL STATUS,"_ US Patent:	15-803620 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS AND METHOD FOR CHECKING COMPLETION STATUS OF SERVICE CONTROL,"_ Korea Patent: 17-0028363 (applied).
-
-- **Seok Ho Son**, Hea Sun Own, _“	METHOD AND APPARATUS FOR MONITORING FAULT OF SYSTEM,”_ Korean Patent: No.16-0032012 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Jin-Mee Kim, Hyun-Joo Bae, Ji-Hyun Lee,	_"CLOUD SERVICE BROKER APPARATUS AND METHOD THEREOF,"_ US Patent: 14-974704 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Jin-Mee Kim, Hyun-Joo Bae, Ji-Hyun Lee,	_"CLOUD SERVICE BROKER AND METHOD THEREOF,"_ Korea Patent: No.15-0110184 (applied).
-
-- Hyun-Joo Bae, Dong-Jae Kang, Jin-Mee Kim, **Seokho Son**, Ji-Hyun Lee, _“RESOURCE SERVICES BROKERAGE PROVIDING APPARATUS FOR PROVIDING USER DEFINED CLOUD SERVICE AND METHOD THEREFOR,”_ Korea Patent: No.15-0094737 (applied).
-
-- Ji-Hyun Lee, Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seokho Son**, _“	METHOD AND APPARATUS FOR BROKERING CLOUD SERVICES,”_ Korea Patent: No.10-1779964.
-
-- Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seok-Ho Son**, Ji-Hyun Lee,	_"CLOUD SERVICE BROKERAGE METHOD AND APPARATUS USING SERVICE IMAGE STORE,"_ US Patent: 15-010420 (applied).
-
-- Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seok-Ho Son**, Ji-Hyun Lee,	_"METHOD FOR BROKERING CLOUD SERVICE USING SERVICE IMAGE STORE AND APPARATUS USING THE SAME,"_ Korea Patent: 15-0084496 (applied).
-
-- Jong Won Kim, Seokhee Lee, and **Seokho Son**, _“Apparatus and method for implementing haptic-based networked virtual environment which supports high-resolution tiled display,”_ US Patent No. US9041621, May 26, 2015.
+* EEG Based Classification of Human Emotions Using Discrete Wavelet Transform. ICITCS 2017
+* An Automated ECG Beat Classification System Using Convolutional Neural Networks, ICITCS 2016
+* Human Activity Recognition Using Wearable Accelerometer Sensors, ICCE-Asia 2016
+* IT 연관 인공지능 기술 발전 전망 및 추진 제언, CICS 2016
+* Human Activity Recognition Using Wearable Sensors: A Short Review, ACEAT 2016
+* Smart Wearable Band for Stress Detection, ICITCS 2015
+* Tree construction algorithm for virtual content distribution network, Multimedia Tools Appl Journal, 2014
+* User Centric Content Management System for Open IPTV Over SNS, JOURNAL OF COMMUNICATIONS AND NETWORKS, 2014
+* 서비스 전달 플랫폼 기반 분산 센서 디바이스 자원 객체 연동 서비스 제공 시스템 연구, 전자공학회논문지, 2014
+* 서비스 전달 플랫폼 기반 분산 센서 디바이스 자원 객체 연동 서비스 제공 시스템 연구, CICS 2014
+* Distributed Sensor device resource-object Connection based on Service Delivery Platform, IoTT 2014
+* Knowledge Reduction Information Retrieval Model in Pathology Medical Domain, HRPub, 2014
+* Cloud Client-computing Architecture and Methods for High-quality Media oriented services, ICACT 2014
+* Open IPTV Convergence Service Creation and Management using Service Delivery Platform, ICACT-TACT 2014
+* Streaming based High-quality Media Convergence Service Provision for Home Appliances, ISCE 2014
+* Web of Objects Platform for Service Composition using Devices Profile for Web Services, IWICT 2014
+* Service Delivery Platform for Open IPTV Convergence Service Creation and Management, ICACT 2014
+* Service Delivery Platform for Convergence Service Creation and Management, Scientific Journal of Management Science and Engineering, 2013
+* Streaming based high-quality media service architecture and methods, ICTC2013
+* Distributed Cloud Service Infrastructure using Mobile Devices, ICTC2013
+* N-스크린 기반 인터렉티브 멀티비전 시스템 제어 구조, 전자공학회논문지, 2013.6.
+* Classification of N-Screen Services, Scenarios and its Standardization, TACT Journal, 2013
+* Cloud-based 3D Menu Generation and Provision of Digital Broadcasting Service on Thin-client, ICACT 2013
+* Mobile Digital Signage System Based on Service
+* Delivery Platform for Targeted Advertising, Journal of Communication and Computer 9 (2012) 1069-1076
+* P2P Gourp Network architecture for Ubiquitous Service in Heterogeneous Mobile Devices, ICTC 2012
+* 피어의 안정성과 지연을 동시에 고려한 P2P 오버레이 멀티캐스트 트리 구성 알고리즘, 한국통신학회논문지, 2011
+* 클라우드 마켓 컴퓨팅을 위한 효율적인 리소스 추천시스템, 인터넷정보학회논문지, 2010
+* Mobile Digital Signage System based on Service Delivery Platform, ICTC 2011
+* Overlay Multicast Tree Construction Algorithm for Stable Multimedia Service, CCNC 2011
+* Classification of N-Screen Services and its Standardization, ICACT 2011
+* Service Delivery Platform for Convergence Service Creation and Management, ICACT 2010
+* Dynamic Collaborative Cloud Service Platform: Opportunities and Challenges, ETRI Journal, 2010
+* Next Generation IPTV Platform, COIN2010, 2010
