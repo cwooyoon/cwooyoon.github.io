@@ -4,7 +4,7 @@ title: Publication
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?user=cwooyoon) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Yoon:Changwoo).
+I can also be found from [Google Scholar](https://scholar.google.com/citations?user=cwooyoon) and [DBLP](https://dblp.uni-trier.de/pid/01/5844.html).
 
 
 # Research Papers
