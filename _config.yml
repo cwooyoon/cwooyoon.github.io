@@ -16,7 +16,7 @@ navbar-links:
   Career: "career"
   Publication: "publication"
   Blog: "blog"
-  Project: "project"
+#  Project: "project"
   GitHub: "https://github.com/cwooyoon"
   Google Scholar: "https://scholar.google.com/citations?user=cwooyoon"
 
