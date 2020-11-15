@@ -9,36 +9,50 @@ title: Research Career
 # Research Experience
 
 ### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+#### Principal Researcher, 1992 to Present
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+## IoT 융합, 웨어러블, 딥러닝 연관 연구 개발 수행
+* 생체신호를 이용한 감정인식을 위한 전달학습 딥러닝 연구
+  - UST, 2018.12~2019.12, 연구책임자
+  - 사업내용: 생체신호 분석을 통한 감정인식을 적은 데이터량에도 가능하게 하는 전달학습 방법에 대한 연구
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+* 인체활동 통합관리지원을 위한 다중웨어러블 SW융합모듈 및 유연 SW응용기술개발
+  -  미래부, 2016.5~2018, 실행책임자
+  - 사업내용: 정신건강 및 신체건강등의 인체활동 통합관리지원을 위한 다중기능 단일센서 저전력  웨어러블 SW융합모듈 및 유연 웨어러블 기기 SW 응용플랫폼 기술개발
+* 뉴미디어 환경을 위한 Web of Objects(WoO) 기술개발
+  - EU ITEA2 국제공동연구(유레카), 2011.12~2013., 과제책임자
+  - 사업내용: IoT의 진보된 형태인 WoO 기술 연구로서 센서 및 단말을 웹오브젝트로 정의하고 서비스전달플랫폼을 활용하여 서비스와의 메쉬업을 제공하는 인프라 기술 연구
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+## 인공지능 융합 연관 연구 개발 수행
+* 뇌세포 및 신경망모델 융합클러스터 지원사업
+  - 국가과학기술연구원, 2017.~현재, 참여
+  - 사업내용: 뇌세포 및 신경망 모델 기술개발 가능성 연구 과제
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
+* 인공지능 분야 국가경쟁력 제고 및 사업화 혁신 방안
+  - 국가과학기술위, 2015., 실행책임자
+  - 사업내용: 국내외 인공지능 정책환경 분석, 국가 혁신시스템 관점에서의 인공지능 하부구조 분석, 국내외 인공지는 R&D, 산업생태계 분석을 통한 인공지능 국내 R&D의 방향성 제시
 
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
+* 통섭기술전략수립 및 기획
+  - 국가과학기술위, 2014., 참여
+  - 사업내용: 연구소의 미래 기술 발굴을 위한 전략 및 기획 사업으로 인간의 뇌를 모델로 하는 컴퓨터 시스템의 개발을 목적으로 심리학, 생물학, 신호처리, 물리학, 정보이론, 수학, 통계 등의 학제를 아우르는 통섭적 연구분야인 인지컴퓨팅 제안함
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
+## 미디어/방송시스템 융합 연관 연구 개발 수행
+* 컴퓨팅 내재형 미디어 융합 전달 시스템 기술연구
+  - 방통위 내부지원금사업, 2012.3~2013, 실행책임자
+  - 사업내용: 소형화되어 분산 배치된 데이터 센터 개념의 스마트노드 시스템을 통하여 가상화된 미디어리소스(GPU가상화, 미디어화면가상화 등) 및 API를 플랫폼 형태로 제공하는 기술
 
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
+* 상황인지형 Tele-Screen 시스템 기술개발
+  - 방통위 과제, 2012.3~2013, 가상화기반 텔레스크린 연구부분 실행책임자
+  - 사업내용: 디지털 사이니지 서비스를 단말 독립적/경제적으로 제공하기 위한 가상화 기반 텔레스크린 서비스 및 시스템 기술 개발
+
+* Cloud STB 대상 고효율 IPTV Display Server 기술개발
+  - KT수탁과제, 2011.5~현재., 과제책임자
+  - 사업내용: KT IPTV의 클라우드 기반 제공 서버 및 Thin-client 단말 개발
+
+* 스케일러블 데이터 기반 Edutainment 핵심 기술개발
+  - 지경부과제, 2010.3~2013.2., 사업책임자
+  - 사업내용: 콘텐츠/사용자/단말 상황인지 기반 서비스 전달망 기술
+
 
 <br/>
 
@@ -99,18 +113,6 @@ title: Research Career
 
 # Honor and Award
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* 우수직원상, 2012년
+* 우수논문상, ICACT 2011
+* 최우수 논문상, 한국통신학회지, 2008
