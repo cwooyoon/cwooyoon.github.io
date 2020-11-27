@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence Specialist & AI Artist
+title: AI Artist & Specialist
 subtitle: AI Learning Section, ETRI
 cover-img: /assets/img/Primitive_Sense_Series.png
 ---
