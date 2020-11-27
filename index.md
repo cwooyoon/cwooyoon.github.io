@@ -2,7 +2,7 @@
 layout: page
 title: Artificial Intelligence Specialist
 subtitle: AI Learning Section, ETRI
-cover-img: https://github.com/cwooyoon/AI_Art/blob/master/images/Primitive_Sense_Series.png
+cover-img: /assets/img/Primitive_Sense_Series.png
 ---
 
 <br/>
