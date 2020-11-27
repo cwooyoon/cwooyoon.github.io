@@ -2,7 +2,7 @@
 layout: page
 title: Artificial Intelligence Specialist
 subtitle: AI Learning Section, ETRI
-#cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/Primitive_Sense_Series.png
 ---
 
 <br/>
