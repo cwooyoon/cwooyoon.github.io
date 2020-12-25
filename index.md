@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI Artist & Specialist
+title: AI Artist & Specialist(인공지능전문가&예술가)
 subtitle: AI Learning Section, ETRI
-cover-img: /assets/img/Primitive_Sense_Series.png
+cover-img: /assets/img_일상/breakfast.jpg
 ---
 
 <br/>
@@ -19,7 +19,7 @@ He has published more than 70 international [research papers](https://ksp.etri.r
 
 He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
 
-He is AI Artist. 
+He is an AI Artist. 
 
 ## Contact
 
